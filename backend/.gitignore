@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Local session-continuity handoff file — not a repo artifact, do not commit.
+TRIBUNAL_CONTEXT_AND_PROGRESS.md
